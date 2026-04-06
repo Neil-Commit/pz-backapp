@@ -5,7 +5,7 @@ Overview
 
 ## Overview
 
-This app was built to solve a personal problem: backing up saves while playing on the unstable version of Project Zomboid. It’s intentionally simple and focused — no unnecessary features, just quick and reliable backups.
+This app was built to solve a personal problem: backing up saves while playing on the unstable version of Project Zomboid. It’s intentionally simple and focused, no unnecessary features, just quick and reliable backups.
 
 ## Features
 
