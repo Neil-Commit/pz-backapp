@@ -1,7 +1,6 @@
 # Project Zomboid Backup Tool
 
 A simple, reliable backup tool for Project Zomboid saves, designed for speed and peace of mind.
-Overview
 
 ## Overview
 
