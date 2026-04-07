@@ -1,5 +1,7 @@
 # Project Zomboid Backup Tool
 
+<img width="590" height="377" alt="main_ui" src="https://github.com/user-attachments/assets/9d6dcf20-ba3d-4734-896f-8e65920dad27" />
+
 A simple, reliable backup tool for Project Zomboid saves, designed for speed and peace of mind.
 
 ## Overview
